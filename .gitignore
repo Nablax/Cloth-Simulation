@@ -1,7 +1,7 @@
 /Library
 /Logs
 /Packages
-/ProjectSettings
 /Temp
+/obj
 *.meta
 *.log
